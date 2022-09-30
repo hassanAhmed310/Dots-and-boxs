@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1641726666 source:d:\3rd term 2022\programming i\lab\project\dotsandboxes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1641748155 source:d:\3rd term 2022\programming i\lab\project\deliverables\source code and executable\dotsandboxes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
